@@ -23,7 +23,7 @@ permalink: /bio
 ##### ***Jun 2023 - Nov 2024*** @ University of Washington, US
 ##### ***Jun 2022 - May 2023*** @ University of Utah, US
 ##### ***Feb 2022 - May 2022*** @ Institute of Earth Sciences, Academia Sinica, Taiwan
-<br /><br />
+<br />
 
 #### Research Assistant 
 ##### ***Oct 2016 - Aug 2017*** @ Institute of Earth Sciences, Academia Sinica, Taiwan (<em>full time</em>)
