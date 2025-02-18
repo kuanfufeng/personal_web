@@ -12,7 +12,7 @@ permalink: /publications/
 </div>
 
 #### Publications
-**You can find all the abtracts and publications on my [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
+**You can find the abtracts and publications on my [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
 
 <!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -65,7 +65,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }} </a> 
+  <a href="{{ publi.link.url }}">{{ publi.link.display }} </a> 
+  <br /><em>{{ publi.authors }} </em>
 
 {% endfor %}
 
