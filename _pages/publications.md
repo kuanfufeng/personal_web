@@ -12,7 +12,8 @@ permalink: /publications/
 </div>
 
 #### Publications
-**You can find the abtracts and publications on my [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
+**You can find my abtracts and publications on [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
+<br />
 
 <!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

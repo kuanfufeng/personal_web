@@ -12,5 +12,5 @@ permalink: /cv/
          class="cv-preview">
     <a href="{{ site.url }}{{ site.baseurl }}/files/CV_KF_2024Dec.pdf" 
        class="cv-download-link" 
-       target="_blank">Download Full CV (PDF)</a>
+       target="_blank">Download CV (PDF)</a>
 </div>
