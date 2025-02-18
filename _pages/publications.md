@@ -65,7 +65,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} [<em><a href="{{ publi.link.url }}">{{ publi.link.display }} </a><em>]
+  {{ publi.title }} [<em><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><em>]
   <br /><em>{{ publi.authors }} </em>
 
 {% endfor %}
@@ -86,11 +86,8 @@ permalink: /publications/
 <br />
 
 #### Thesis
-Noise-based monitoring on crustal seismic velocity variations (2022) [<em>[PhD Dissertation](https://doi.org/10.6342/NTU202200093)<em>]<br />
-<em>**Feng, Kuan-Fu**</em> <br />
-<em>Advisor: Huang, Hsin-Hua<em><br />
-<em>co-advisor: Wu, Yih-Min<em><br />
+<em>**Feng, Kuan-Fu**</em> (2022) Noise-based monitoring on crustal seismic velocity variations [<em>[PhD Dissertation](https://doi.org/10.6342/NTU202200093)<em>]<br />
+<em>Advisor: Huang, Hsin-Hua<em> & <em>co-advisor: Wu, Yih-Min<em><br />
 
-Investigating the uncertainty of time-dependent seismic velocity changes using travel time tomography: a case study of the ML 6.4 2013 Rueisuei earthquake, Taiwan (2016) [<em>[Master Thesis](https://doi.org/10.6342/NTU201601358)<em>]<br />
-<em>**Feng, Kuan-Fu Feng**</em><br />
+<em>**Feng, Kuan-Fu**</em> (2016) Investigating the uncertainty of time-dependent seismic velocity changes using travel time tomography: a case study of the ML 6.4 2013 Rueisuei earthquake, Taiwan (2016) [<em>[Master Thesis](https://doi.org/10.6342/NTU201601358)<em>]<br />
 <em>Advisor: Wu, Yih-Min<em>

@@ -1,7 +1,7 @@
 ---
 title: "KF Feng - Research"
 layout: textlay
-excerpt: "KF Feng-- Research"
+excerpt: "KF Feng -- Research"
 sitemap: false
 permalink: /research/
 ---
