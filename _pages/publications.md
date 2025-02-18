@@ -64,7 +64,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
   <a href="{{ publi.link.url }}">{{ publi.link.display }} </a> 
   <br /><em>{{ publi.authors }} </em>
 
@@ -83,6 +83,7 @@ permalink: /publications/
   {% endif %}
   <br /><br />
 {% endfor %} -->
+<br />
 
 #### Thesis
 Noise-based monitoring on crustal seismic velocity variations [PhD Dissertation](https://doi.org/10.6342/NTU202200093) (2022)<br />
