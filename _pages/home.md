@@ -49,6 +49,9 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_02_taiwan.png" alt="Slide 2" style="width: 100%; height: auto;" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_022_taiwan.png" alt="Slide 3" style="width: 100%; height: auto;" />
+        </div>        
     </div>
 
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
