@@ -15,7 +15,7 @@ permalink: /
     <div class="photo-container" style="flex-shrink: 0; margin-right: 20px;">
         <img src="{{ site.url }}{{ site.baseurl }}/images/Photo_KF.png" 
              alt="Kuan-Fu Feng" 
-             style="width: 220px; height: 200px; object-fit: cover, border-radius: 5px; border: 1px solid #ddd;">
+             style="width: 240px; height: 180px; object-fit: cover, border-radius: 5px; border: 1px solid #ddd;">
     </div>
     <!-- Introductory Text -->
     <div style="flex-grow: 1; text-align: justify;">
@@ -44,13 +44,10 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_zoom_scatter.png" alt="Slide 1" style="width: 100%; height: auto;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_01_kilauea.png" alt="Slide 1" style="width: 100%; height: auto;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_pred_false.png" alt="Slide 2" style="width: 100%; height: auto;" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/Figure_4_Vs_Final.png" alt="Slide 3" style="width: 100%; height: auto;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_02_taiwan.png" alt="Slide 2" style="width: 100%; height: auto;" />
         </div>
     </div>
 
