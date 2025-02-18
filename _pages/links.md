@@ -7,15 +7,14 @@ permalink: /links/
 ---
 
 #### Collaborators/Mentors
+##### [Gwo-Bin Ou](https://eq.ccu.edu.tw/p/412-1070-293.php?Lang=en) (Retired) ([National Chung Cheng University](https://eq.ccu.edu.tw/)) 
 ##### [Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm) ([National Taiwan Univerisy](https://www.ntu.edu.tw/english/))<br />
 ##### [Hsin-Hua Huang](https://sites.google.com/view/hsinhuahuang/home?authuser=0) ([Institude of Earth Scinece, Academia Sinica](https://www.earth.sinica.edu.tw/en))<br />
+##### [Wei-An Chao](https://sites.google.com/view/collabnycu/home) ([National Yang Ming Chiao Tung University](https://ce.nycu.edu.tw/en))<br />
+##### [Shiann-Jong Lee](https://www.earth.sinica.edu.tw/en/member/detail/30) ([Institude of Earth Scinece, Academia Sinica](https://www.earth.sinica.edu.tw/en))<br />
 ##### [Fan-Chi Lin](https://noise.earth.utah.edu/) ([University of Utah](https://www.utah.edu/))<br />
-##### [Michael Manga](https://eps.berkeley.edu/people/michael-manga) ([UC Berkeley](https://www.berkeley.edu/))<br />
-##### [Jamie Farrell](https://www.uusatrg.utah.edu/PEOPLE/Jamie/) ([University of Utah](https://www.utah.edu/))<br />
-##### [Mara H. Reed](https://www.marareed.com/recent-work) ([UC Berkeley](https://www.berkeley.edu/))<br />
-##### [Anna Barth](https://www.researchgate.net/scientific-contributions/Anna-Barth-2161876347) ([UC Berkeley](https://www.berkeley.edu/))<br />
-##### [Sin-Mei Wu](https://sites.google.com/view/sinmeiwu/home?authuser=0) ([University of Hawaii](https://manoa.hawaii.edu/))<br />
-##### [Nori Nakata](https://scholar.google.com/citations?user=VsHf-U8AAAAJ&hl=en) ([Lawrence Berkeley National Laboratory](https://www.lbl.gov/))<br /> 
+##### [Marine Denolle](https://ess.uw.edu/people/marine-denolle/) ([University of Washington](https://ess.uw.edu/))<br />
+##### [Tonie van Dam](https://profiles.faculty.utah.edu/u6030191/about) ([University of Utah](https://www.utah.edu/))<br />
 
 ##### Looking forward to adding more!<br />
 
@@ -26,5 +25,5 @@ permalink: /links/
 ##### American Geophysical Union ([AGU](https://www.agu.org/))<br />
 ##### European Geosciences Union ([EGU](https://www.egu.eu/))<br />
 ##### Seismological Society of America ([SSA](https://www.seismosoc.org/))<br />
-##### International Association of Volcanology and Chemistry of the Earth’s Interior ([IAVCEI](https://iavcei.gmem.eu/page/home))<br />
+##### Chinese Taipei Geophysical Society ([CGS](https://www.cgs.org.tw/))<br />
 

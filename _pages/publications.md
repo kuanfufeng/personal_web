@@ -1,7 +1,7 @@
 ---
-title: "CN Liu - Publications"
+title: "KF Feng - Publications"
 layout: gridlay
-excerpt: "CN Liu -- Publications."
+excerpt: "KF Feng -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -12,7 +12,7 @@ permalink: /publications/
 </div>
 
 #### Publications
-**You can find all the abtracts and publications on my [google scholar](https://scholar.google.com/citations?user=92mnkwIAAAAJ&hl=en&inst=6453797383205921872&authuser=1).**
+**You can find all the abtracts and publications on my [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
 
 <!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,11 +53,11 @@ permalink: /publications/
 <p> &nbsp; </p> -->
 
 #### Upcoming
-- ML-aided induced seismicity processing and interpretation for Enhanced Geothermal Systems <br />
-<em> Nakata, N., Bi, Z., Qiu, H., **Liu, C.-N.**, & Nakata, R. (**under review**) </em><br />
+- A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States <br />
+<em> **KF Feng**, M Denolle, FC Lin, T van Dam (**under review**) </em><br />
 <br />
-- Seismic and Thermal Disturbances at Upper Geyser Hill, Yellowstone National Park (2023): Insights into Hydrothermal System Dynamics <br />
-<em>**Liu, C. N.***, Lin, F. C., Manga, M., Farrell, J., Reed, M. H., Barth, A.,... & White, E. (**in prep.**) </em><br />
+- Investigating seismic attenuation across the Pacific Northwest of the United States using the ambient noise <br />
+<em>**KF Feng**, M Denolle, Y Ni (**in prep.**) </em><br />
 
 
 #### Full List of publications
@@ -84,5 +84,10 @@ permalink: /publications/
 {% endfor %} -->
 
 #### Thesis
-Using low-cost seismometers and machine learning on earthquake early warning.<br />
-<em>**Liu, Cheng-Nan***, Ting Chung Huang, and Yih Min Wu</em><br /> [Master Thesis](https://doi.org/10.6342/NTU201901735) (2019)
+Noise-based monitoring on crustal seismic velocity variations <br />
+<em>**Feng, Kuan-Fu**</em> [PhD Dissertation](https://doi.org/10.6342/NTU202200093) (2022)<br />
+<em>Advisor: Huang, Hsin-Hua, co-advisor: Wu, Yih-Min<em>
+
+Investigating the uncertainty of time-dependent seismic velocity changes using travel time tomography: a case study of the ML 6.4 2013 Rueisuei earthquake, Taiwan <br />
+<em>**Feng, Kuan-Fu Feng**</em> [Master Thesis](https://doi.org/10.6342/NTU201601358) (2016)<br />
+<em>Advisor: Wu, Yih-Min<em>

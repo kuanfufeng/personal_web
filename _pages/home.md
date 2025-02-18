@@ -8,7 +8,7 @@ permalink: /
 
 **News: New website Alert!** Hi, this is my new website. Come and check it out!
 
-**Interest: Near-surface process/ Ambient Noise / Mahchine Learning**
+**Interest: Near-surface process / Ambient Noise / Volcano Seismology**
 
 <div markdown="0" style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- Photo -->

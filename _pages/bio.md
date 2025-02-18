@@ -13,67 +13,60 @@ permalink: /bio
 </div>
 
 ### **Education**
-Aug. 2021 – present   &emsp; Ph.D., Department of Geology and Geophysics, University of Utah, Salt Lake City, UT, U.S.A. (Advisor: [Dr. Fan-Chi Lin](https://noise.earth.utah.edu/))<br />
-Aug. 2017 – Jun. 2019 &emsp; Master, Department of Geoscience, National Taiwan University, Taipei, Taiwan. (Advisor: [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
-Aug. 2013 – Jun. 2017 &emsp; Bachelor, Department of Earth Science, National Cheng Kung University, Tainan, Taiwan<br />
+2017 - 2022 &emsp; Ph.D., Department of Geosciences, National Taiwan University, Taiwan. (Advisor: [Dr. Hsin-Hua Huang](https://sites.google.com/view/hsinhuahuang/home?authuser=0) & [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
+2014 – 2016 &emsp; Master, Department of Geosciences, National Taiwan University, Taiwan. (Advisor: [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
+2010 – 2014 &emsp; Bachelor, Department of Earth and Environmental Sciences, National Chung Cheng University, Taiwan<br />
 
 ### **Working Experience**
-#### Research Assistant @ University of Utah, Utah, U.S.A. (<em>full time</em>)
-##### ***Aug 2021 - present***
-- 
-- <br />
+#### Postdoctoral Researcher (<em>full time</em>)
+##### ***Dec 2024 - present*** @ University of Utah, US
+##### ***Jun 2023 - Nov 2024*** @ University of Washington, US
+##### ***Jun 2022 - May 2023*** @ University of Utah, US
+##### ***Feb 2022 - May 2022*** @ Institute of Earth Sciences, Academia Sinica, Taiwan
+<!-- - <br /> -->
 
-#### Research Intern @ Lawerence Berkeley National Laboratory, Berkeley, U.S.A. (<em>full time</em>)
-##### ***May 2024 - Aug 2024***
-- Develop a machine learning model for image restoration on time series data.
-- Fostered strong collaboration in a multidisciplinary team, enhancing cross-departmental synergy and innovation.
+#### Research Assistant 
+##### ***Oct 2016 - Aug 2017*** @ Institute of Earth Sciences, Academia Sinica, Taiwan (<em>full time</em>)
+* Supervisor: Associate Research Fellow [Shiann-Jong Lee](https://www.earth.sinica.edu.tw/en/member/detail/30)
+- Event checking and offline testing for [Real-time Moment Tensor Monitoring System](https://rmt.earth.sinica.edu.tw)
+- Building up finite fault models of subduction zones
 
-#### Research Assistant @ Institute of Earth Sciences, Academia Sinica, Taipei, Taiwan. (<em>full time</em>)
-##### ***Jan. 2020 - Jul. 2021***
-- Develop a machine learning model and implement automated pipelines for earthquake relocation systems.
-- Develop a physical model using time series data analysis and Bayesian Markov-Chain Monte-Carlo modeling.
-- Worked closely with an international team to integrate and automate processes.
+##### ***Feb 2014 - Jun 2014*** @ National Chung Cheng University, Taiwan (<em>part time</em>)
+* Supervisor: Associate Professor [Gwo-Bin Ou](https://eq.ccu.edu.tw/p/412-1070-293.php?Lang=en) (Retired)
+- Seismic phase picking, event relocation, and focal mechanism analyses
+
+
+### **Grants/Fellowships**
+2023 &emsp; GAGE/SAGE 2023 Community Science Workshop Travel Grant<br />
+2022 &emsp; Postdoctoral Research Abroad Fellowship, Ministry of Science and Technology, Taiwan<br />
+2021 &emsp; Prof. Yi-Ben Tsai Graduate Student Scholarship, Chinese Taipei Geophysics Society (CGS)<br />
 
 ### **Honors/Awards**
-2024 &emsp; National Science Foundation Geothermal INTERN Recipient<br />
-2023 &emsp; The David S. & Inga M. Chapman Fund<br />
-2023 &emsp; GAGE/SAGE Community ScienceWorkshop Travel Grant<br />
-2021 &emsp; Stokes-Eardley Fellowship
+2022 &emsp; Dean’s Award, College of Science, National Taiwan University<br />
+2019 &emsp; Outstanding Student Paper Awards in International Conferences, Earth Science Research Promotion Center (ESRPC)<br />
+2019 &emsp; Invited talk at Workshop on Frontiers in Seismic Interferometry<br />
 
-### **Selected Talks**
-#### American Geophysical Union (San Fransisco, U.S.A. (2023))
-##### - High-Resolution Ambient Noise Tomography across Central Taiwan via Multi-Mode Rayleigh Wave Phase Velocity Inversion.
-#### Geosciences Annually Assembly (Taoyuan, Taiwan (2023))
-##### - High-Resolution Ambient Noise Tomography across Central Taiwan via Multi-Mode Rayleigh Wave Phase Velocity Inversion.
-#### American Geophysical Union (New Orleans, U.S.A (2021))
-##### - High-Resolution 3-D Shear Wave Velocity Model of Northern Taiwan via Bayesian Joint Inversion of Rayleigh Wave Ellipticity and Phase Velocity with Formosa Array.
-
-### **Selected Posters**
-#### American Geophysical Union (Washington D.C, U.S.A. (2024))
-##### - Waveform Upscaling in Seismology Using Swin Transformer and Dense Arrays: Enhancing Resolution and Accuracy with Machine Learning.
-#### American Geophysical Union (Washington D.C, U.S.A. (2024))
-##### - Hydrothermal Systems Monitoring in Yellowstone National Park, USA: Case Studies Using Nodal Deployments on Doublet Pool and Steamboat Geyser.
-#### American Geophysical Union (San Fransisco, U.S.A. (2023))
-##### - Monitoring the Yellowstone Doublet Pool Thumping Cycle through temporal nodal deployments from 2015 to 2023.
-#### American Geophysical Union (Chicago, U.S.A. (2022))
-##### - Investigating the Yellowstone Doublet Pool Thumping Cycle through temporal nodal deployments.
-#### European Geosciences Union (Vienna, Austria (2019))
-##### - Using Low-cost Seismometers and Machine Learning on Onsite Earthquake Early Warning.
+### **Selected Presentation**
+#### 2024 Seismological Society of America (SSA) Meeting (Anchorage, AK, US)
+- Measuring shallow seismic attenuation across the PaciKic Northwest of the United States using ambient noise seismology. (Poster)
+#### 2023 American Geophysical Union (San Fransisco, CA, US)
+- A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States. (Oral)
+#### 2023 GAGE/SAGE 2023 Community Science Workshop (Pasadena, CA, US)
+- Investigating seismic velocity response to near-surface hydrological variations in Utah, United States. (Poster)
+#### 2022 The 5th Taiwan Earthquake Center (TEC) Annual Meeting (Yilan, Taiwan)
+- A Noise-Based Monitoring System of Crustal Seismic Velocity Changes in Taiwan. (Oral)
+#### 2019 American Geophysical Union (San Fransisco, CA, US)
+- Detection of a precursory phase of the 2018 magma eruption in the Lower East Rift Zone of Kilauea volcano, Hawaii. 
 
 
-### **Leadership/Volunteer Experience**
-2024 &emsp; Seminar Convener of Seismotea, University of Utah<br />
-2021 &emsp; Conference Worker, Academia Sinica, Taiwan<br />
-2015 &emsp; Summer School Convener, National Cheng Kung University, Taiwan<br />
+### **Professional Services/Volunteer Experience**
+2024 &emsp; Seismic COmputational Platform for Empowering Discovery (SCOPED) Seattle Workshop Instructor<br />
+2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
+2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
 
-### **Teaching Assistantships**
-2025 &emsp; Geo3010-001, Geophysics, University of Utah<br />
-2025 &emsp; Geo1000-001, Science in Cinema, University of Utah<br />
-2025 &emsp; Geo1040-001, World of Dinosaurs, University of Utah<br />
-2024 &emsp; Geo3100-001, Dynamic Earth, University of Utah<br />
-2022 &emsp; Geo3030-090, Living with Quakes, University of Utah<br />
+<!-- ### **Teaching Assistantships**
 2019 &emsp; Geo5073, Time Series Analysis, National Taiwan University<br />
-2018 &emsp; Geo5101, Computer Programming on Geosciences, National Taiwan University<br />
+2018 &emsp; Geo5101, Computer Programming on Geosciences, National Taiwan University<br /> -->
 
 
 

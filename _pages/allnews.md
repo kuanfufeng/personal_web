@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Cheng-Nan at UofU."
+excerpt: "Kuan-Fu at UofU."
 sitemap: false
 permalink: /allnews.html
 ---
