@@ -13,10 +13,10 @@ permalink: /research/
 </div>
 
 # Research
-My goal is to explore Earth's subsurface structure, uncover the mysteries of geyser activities, and apply machine learning to Earth science data to reveal the secrets of our planet.
+<!-- My goal is to explore Earth's subsurface structure, uncover the mysteries of geyser activities, and apply machine learning to Earth science data to reveal the secrets of our planet.
 
 During my Ph.D. journey, I have been advised by Dr. [Fan-Chi Lin](https://noise.earth.utah.edu/) and have closely collaborated with a research group at UC Berkeley led by Dr. [Michael Manga](https://eps.berkeley.edu/people/michael-manga).
-My goal including discovering the subsurface structure of the earth, unveiling the mysterious activities of geyser, and applying Machine Learning on Earth Science data to discover the secrets behind out planet.
+My goal including discovering the subsurface structure of the earth, unveiling the mysterious activities of geyser, and applying Machine Learning on Earth Science data to discover the secrets behind out planet. -->
 
 
 Here are some topics and researchs that I finished or currently work on:
