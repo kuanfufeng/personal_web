@@ -11,7 +11,7 @@ email: kuanfu.feng@utah.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of Kuan-Fu Feng.
 baseurl: "personal_web"
-# url: "https://andrewntu.github.io/"
+url: "https://kuanfufeng.github.io/"
 
 include:
   - .htaccess
