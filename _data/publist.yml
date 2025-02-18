@@ -1,38 +1,45 @@
-- title: "Multimode ambient noise double-beamforming tomography with a dense linear array: revealing accretionary wedge architecture across Central Taiwan"
-  authors: "Liu, C. N., Lin, F. C., Huang, H. H., Wang, Y., & Gkogkas, K. (2024)"
+- title: "Controls on Seasonal Variations of Crustal Seismic Velocity in Taiwan Using Single‐Station Cross‐Component Analysis of Ambient Noise Interferometry"
   link:
-    url: "https://academic.oup.com/gji/article/239/1/467/7731147"
-    display: "Geophysical Journal International, 239(1), 467-477."
+    url: "https://doi.org/10.1029/2021JB022650"
+    display: "Journal of Geophysical Research: Solid Earth 126 (11), e2021JB022650"
+  # image: BSCCOgap.png
+  # description: ""
+  authors: "KF Feng, HH Huang, YJ Hsu, YM Wu (2021)"
   highlight: 1
 
-- title: "Thumping Cycle Variations of Doublet Pool in Yellowstone National Park, USA"
-  authors: "Liu, C. N., Lin, F. C., Manga, M., Farrell, J., Wu, S. M., Reed, M. H., ... & White, E. (2023)"
+
+  - title: "Evidence for Fluid Migration During the 2016 Meinong, Taiwan, Aftershock Sequence"
+  # image: BSCCOgap.png
+  # description: ""
   link:
-    url: "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022GL101175"
-    display: "Geophysical Research Letters, 50(4), e2022GL101175."
+    url: "https://doi.org/10.1029/2020JB019994"
+    display: "Journal of Geophysical Research: Solid Earth 125 (9), e2020JB019994"
+  authors: "YF Hsu, HH Huang, MH Huang, VC Tsai, RY Chuang, KF Feng, SH Lin (2020)."
   highlight: 1
-  news1: 
-    name: "Down to Earth"
-    url: "https://issuu.com/uofucollegeofscience/docs/downtoearth_pub2023_web?fr=sNzk2YjY0Nzc1MDY"
-  news2:    
-    name: "UU College of Science"
-    url: "https://science.utah.edu/news/thumping-thermometer"
-  news3:    
-    name: "@theU"
-    url: "https://attheu.utah.edu/uncategorized/a-pool-at-yellowstone-is-a-thumping-thermometer"
-  news4:    
-    name: "IFLScience"
-    url: "https://www.iflscience.com/yellowstone-s-searing-hot-pulsing-pool-acts-like-a-thumping-thermometer-67910"
-  news5:
-    name: "SciTechDaily"
-    url: "https://scitechdaily.com/the-thumping-thermometer-of-yellowstone-unique-pool-reveals-secrets-of-hydrothermal-system"
 
-
-- title: "High‐resolution 3‐D shear wave velocity model of northern Taiwan via Bayesian joint inversion of Rayleigh wave ellipticity and phase velocity with Formosa array"
-  image: BSCCOgap.png
-  description: "Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories."
-  authors: "Liu, C. N., Lin, F. C., Huang, H. H., Wang, Y., Berg, E. M., & Lin, C. H. (2021)."
+  - title: "Detecting pre-eruptive magmatic processes of the 2018 eruption at Kilauea, Hawaii volcano with ambient noise interferometry"
+  # image: BSCCOgap.png
+  # description: ""
   link:
-    url: "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JB021610"
-    display: "Journal of Geophysical Research Solid Earth, 126(5), e2020JB021610."
+    url: "https://doi.org/10.1186/s40623-020-01199-x"
+    display: "Earth, Planets and Space 72, 1-15"
+  authors: "KF Feng, HH Huang, YM Wu (2020)"
+  highlight: 1
+
+  - title: "Composite megathrust rupture from deep interplate to trench of the 2016 Solomon Islands earthquake"
+  # image: BSCCOgap.png
+  # description: ""
+  link:
+    url: "https://doi.org/10.1002/2017GL076347"
+    display: "Geophysical Research Letters 45 (2), 674-681"
+  authors: "SJ Lee, TC Lin, KF Feng, TY Liu (2018)"
+  highlight: 1
+
+- title: "Imaging high-pressure rock exhumation in eastern Taiwan"
+  # image: 
+  # description: ""
+  link:
+    url: "https://doi.org/10.1130/G36810.1"
+    display: "Geology 43 (7), 651-654"
+  authors: "D Brown, YM Wu, KF Feng, WA Chao, HH Huang (2015)"
   highlight: 1
