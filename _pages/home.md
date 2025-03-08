@@ -22,12 +22,11 @@ permalink: /
         <p>
             Hi, I’m <strong>Kuan-Fu Feng</strong>, a postdoc with extensive experience 
             in data science in the <strong>Department of Geology and Geophysics</strong> at the 
-            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. 
-            <!-- Proficient in <strong>time series data analysis</strong> 
-            and <strong>machine learning applications</strong> in Seismology. Proven track record of developing advanced 
-            machine learning models for hydrothermal systems monitoring and prediction. Skilled in both independent research and 
-            collaborative projects, with multiple publications in leading geophysical journals. Currently working on hydrothermal 
-            system monitoring and multiple topics on machine learning (see <a href="{{ site.url }}{{ site.baseurl }}/research" target="_blank">Research</a>). -->
+            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology, with experience in applied science. 
+            
+            Hands-on experience in geophysical experiments has made me skilled in acquiring, processing, and analyzing time series data and have expertise in geoscience-related software and programming in Linux environments.
+            
+            I am a fast learner, eager to acquire new knowledge and techniques in interdisciplinary fields. I take great pleasure in conducting independent research and enjoy collaborating with diverse teams to tackle complex challenges.
         </p>
     </div>
 </div>
