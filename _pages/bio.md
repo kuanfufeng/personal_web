@@ -42,6 +42,13 @@ permalink: /bio
 2021 &emsp; Prof. Yi-Ben Tsai Graduate Student Scholarship, Chinese Taipei Geophysics Society (CGS)<br />
 <br />
 
+### **Professional Services/Volunteer Experiences**
+2024 &emsp; Seismic COmputational Platform for Empowering Discovery (SCOPED) Seattle Workshop Instructor<br />
+2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
+2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
+<br />
+<br />
+
 ### **Honors/Awards**
 2022 &emsp; Dean’s Award, College of Science, National Taiwan University<br />
 2019 &emsp; Outstanding Student Paper Awards in International Conferences, Earth Science Research Promotion Center (ESRPC)<br />
@@ -61,11 +68,6 @@ A Noise-Based Monitoring System of Crustal Seismic Velocity Changes in Taiwan. (
 Detection of a precursory phase of the 2018 magma eruption in the Lower East Rift Zone of Kilauea volcano, Hawaii. 
 <br />
 
-
-### **Professional Services/Volunteer Experiences**
-2024 &emsp; Seismic COmputational Platform for Empowering Discovery (SCOPED) Seattle Workshop Instructor<br />
-2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
-2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
 
 <!-- ### **Teaching Assistantships**
 2019 &emsp; Geo5073, Time Series Analysis, National Taiwan University<br />
