@@ -60,7 +60,7 @@ permalink: /publications/
 - Investigating seismic attenuation across the Pacific Northwest of the United States using the ambient noise <br />
 <em>**KF Feng**, M Denolle, Y Ni (**in prep.**) </em><br />
 <br />
-- Long-Term Signatures of Interseismic Deformation within Cascadia Subduction Zone Using Ambient Noise Interferometry
+- Long-Term Signatures of Interseismic Deformation within Cascadia Subduction Zone Using Ambient Noise Interferometry <br />
 <em>**M Kidiwela**, **KF Feng**, M Denolle, WSD Wilcock (**in prep.**) <em><br />
 <br />
 <br />
