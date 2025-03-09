@@ -11,7 +11,7 @@ permalink: /publications/
     style="width: 110%; max-height: 250px; object-fit: fill; border-radius: 1px;">
 </div> -->
 
-#### Publications
+## Publications
 **You can find my abtracts and publications on [google scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=cFcJgigAAAAJ).**
 <br />
 

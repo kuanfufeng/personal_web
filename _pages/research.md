@@ -12,7 +12,7 @@ permalink: /research/
     style="width: 120%; max-height: 250px; object-fit: cover; border-radius: 1px;">
 </div> -->
 
-# Research
+## Research
 <!-- My goal is to explore Earth's subsurface structure, uncover the mysteries of geyser activities, and apply machine learning to Earth science data to reveal the secrets of our planet.
 
 During my Ph.D. journey, I have been advised by Dr. [Fan-Chi Lin](https://noise.earth.utah.edu/) and have closely collaborated with a research group at UC Berkeley led by Dr. [Michael Manga](https://eps.berkeley.edu/people/michael-manga).

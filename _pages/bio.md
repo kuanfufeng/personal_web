@@ -46,7 +46,6 @@ permalink: /bio
 2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
 2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
 <br />
-<br />
 
 ### **Honors/Awards**
 2022 &emsp; Dean’s Award, College of Science, National Taiwan University<br />
@@ -64,7 +63,7 @@ Investigating seismic velocity response to near-surface hydrological variations 
 #### 2022 The 5th Taiwan Earthquake Center (TEC) Annual Meeting (Yilan, Taiwan)
 A Noise-Based Monitoring System of Crustal Seismic Velocity Changes in Taiwan. (Oral)
 #### 2019 American Geophysical Union (San Fransisco, CA, US)
-Detection of a precursory phase of the 2018 magma eruption in the Lower East Rift Zone of Kilauea volcano, Hawaii. 
+Detection of a precursory phase of the 2018 magma eruption in the Lower East Rift Zone of Kilauea volcano, Hawaii. (Oral)
 <br />
 
 

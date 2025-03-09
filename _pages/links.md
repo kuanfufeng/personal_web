@@ -29,4 +29,4 @@ permalink: /links/
 ##### European Geosciences Union ([EGU](https://www.egu.eu/))<br />
 ##### Seismological Society of America ([SSA](https://www.seismosoc.org/))<br />
 ##### Chinese Taipei Geophysical Society ([CGS](https://www.cgs.org.tw/))<br />
-
+##### Asia Oceania Geosciences Society ([AOGS](https://www.asiaoceania.org/society/public.asp?page=home.asp))<br />
