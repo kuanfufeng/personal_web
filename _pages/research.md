@@ -6,11 +6,11 @@ sitemap: false
 permalink: /research/
 ---
 <!-- Cover Image Section -->
-<div markdown="0" class="cover-image-container" style="text-align: center; margin: 1px 0;">
+<!-- <div markdown="0" class="cover-image-container" style="text-align: center; margin: 1px 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/cover/geo-rim.png" 
     alt="Cover Image" 
     style="width: 120%; max-height: 250px; object-fit: cover; border-radius: 1px;">
-</div>
+</div> -->
 
 # Research
 <!-- My goal is to explore Earth's subsurface structure, uncover the mysteries of geyser activities, and apply machine learning to Earth science data to reveal the secrets of our planet.
