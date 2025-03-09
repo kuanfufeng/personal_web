@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: New website Alert!** Hi, this is my new website. Come and check it out!
+**News: New website Alert!** Hi, this is Kuan-Fu's new website. Come and check it out!
 
 **Interest: Near-surface process / Ambient Noise / Volcano Seismology**
 
