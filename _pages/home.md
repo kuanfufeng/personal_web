@@ -21,8 +21,8 @@ permalink: /
     <div style="flex-grow: 1; text-align: justify;">
         <p>
             Hi, I’m <strong>Kuan-Fu Feng</strong>, a postdoc with extensive experience 
-            in data science in the <strong>Department of Geology and Geophysics</strong> at the 
-            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology, with experience in applied science. 
+            in data and applied science in the <strong>Department of Geology and Geophysics</strong> at the 
+            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology. My research interest is in  
 
             
         </p>
