@@ -8,7 +8,7 @@ permalink: /publications/
 <div markdown="0" class="cover-image-container" style="text-align: center; margin: 1px 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/cover/rainier.jpg" 
     alt="Cover Image" 
-    style="width: 100%; max-height: 250px; object-fit: fill; border-radius: 1px;">
+    style="width: 100%; max-height: 220px; object-fit: fill; border-radius: 1px;">
 </div>
 
 #### Publications
