@@ -15,7 +15,7 @@ permalink: /
     <div class="photo-container" style="flex-shrink: 0; margin-right: 20px;">
         <img src="{{ site.url }}{{ site.baseurl }}/images/Photo_KF.png" 
              alt="Kuan-Fu Feng" 
-             style="width: 240px; height: 180px; object-fit: cover, border-radius: 5px; border: 1px solid #ddd;">
+             style="width: 100%; height: 180px; object-fit: cover, border-radius: 5px; border: 1px solid #ddd;">
     </div>
     <!-- Introductory Text -->
     <div style="flex-grow: 1; text-align: justify;">
