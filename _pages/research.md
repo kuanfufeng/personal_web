@@ -27,8 +27,9 @@ My goal including discovering the subsurface structure of the earth, unveiling t
 #### **Near-surface processes** <br />
 <br />
 
-**Pre-eruptive magmatic processes**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_01_kilauea.png){: style="width: 450px; float: left; margin: 0px 10px"}
+<br />
+**Pre-eruptive magmatic processes**<br />
 We employ ambient noise interferometry to examine seismic velocity variations (dv/v) prior to the 2018 Kīlauea eruption. The results identify three stages of magma activity: deep intrusion (1–4 km) occurring in late 2017, summit inflation in early 2018, and structural weakening leading to the lower East Rift Zone eruption. These findings underscore the value of dv/v analysis in monitoring volcanic activity and enhancing eruption prediction capabilities.
 <br />
 <br />
@@ -62,8 +63,8 @@ Analyzing decades of continuous seismic recordings from the Broadband Array in T
 <br />
 <br />
 
-**Water resources in the Utah State, USA**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_03_utah.png){: style="width: 450px; float: left; margin: 0px 10px"}
+**Water resources in the Utah State, USA**<br />
 Climate change is increasing droughts and extreme weather in the western US (and worldwide), especially in semi-arid areas, causing major social and environmental impacts. Effective water management requires ongoing groundwater monitoring, which is detectable through seismic velocity variations (dv/v). This study analyzes seismic data from 28 broadband stations in Utah (2006–2023), focusing on seismic signals, thermal stresses, soil moisture, and groundwater levels. The results show that long-term groundwater decline correlates most with seismic observations and that soil moisture alone cannot account for total water storage changes. Ultimately, dv/v is a helpful indicator of subsurface water storage.
 <br />
 <br />
