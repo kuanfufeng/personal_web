@@ -23,11 +23,10 @@ My goal including discovering the subsurface structure of the earth, unveiling t
 
 <!-- Here are some topics and researchs that I finished or currently work on: -->
 <br />
-<br />
 
 #### **Near-surface processes** <br />
 
-**Pre-eruptive magmatic processes.** 
+**Pre-eruptive magmatic processes**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_01_kilauea.png){: style="width: 450px; float: left; margin: 0px 10px"}
 We employ ambient noise interferometry to examine seismic velocity variations (dv/v) prior to the 2018 Kīlauea eruption. The results identify three stages of magma activity: deep intrusion (1–4 km) occurring in late 2017, summit inflation in early 2018, and structural weakening leading to the lower East Rift Zone eruption. These findings underscore the value of dv/v analysis in monitoring volcanic activity and enhancing eruption prediction capabilities.
 <br />
@@ -50,6 +49,8 @@ We employ ambient noise interferometry to examine seismic velocity variations (d
 **Seasonal subsurface behaviors in Taiwan**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_02_taiwan.png){: style="width: 450px; float: right; margin: 0px 10px"}
 Analyzing decades of continuous seismic recordings from the Broadband Array in Taiwan for Seismology (BATS), we uncover strong seasonal variations in near-surface seismic velocity (dv/v). By comparing these variations with weather data, such as rainfall, temperature, air pressure, and wind speed, we find that rainfall varying groundwater level and the subterranean pore pressure best fit the seasonal wave speed changes in both space and time. Once we remove these rainfall-related signals, we can more precisely detect earthquake-induced underground damage that might otherwise be hidden or overshadowed by strong seasonal effects.
+<br />
+<br />
 <br />
 <br />
 <br />
