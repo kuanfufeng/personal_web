@@ -16,6 +16,8 @@ permalink: /links/
 ##### [Fan-Chi Lin](https://noise.earth.utah.edu/) ([University of Utah](https://www.utah.edu/))<br />
 ##### [Marine Denolle](https://ess.uw.edu/people/marine-denolle/) ([University of Washington](https://ess.uw.edu/))<br />
 ##### [Tonie van Dam](https://profiles.faculty.utah.edu/u6030191/about) ([University of Utah](https://www.utah.edu/))<br />
+
+<!-- ##### [Yu-Fang Hsu](https://yfhsu.weebly.com/)([University of Southern California](https://dornsife.usc.edu/earth/)) -->
 <!-- ##### []() -->
 
 

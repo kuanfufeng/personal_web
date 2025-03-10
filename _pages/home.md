@@ -22,7 +22,7 @@ permalink: /
         <p>
             Hi, I’m <strong>Kuan-Fu Feng</strong>, a postdoc in the <strong>Department of Geology and Geophysics</strong> at the 
             <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology with extensive experience in data and applied science.
-             My research interests are exploring nature using seismic interferometry and expanding seismology into the 4th dimension of time.            
+             My research interests are exploring nature expanding seismology into the 4th dimension of time.            
         </p>
     </div>
 </div>
@@ -54,14 +54,13 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page_slider/fig_03_utah.png" alt="Slide 5" style="width: 100%; height: auto;" />
         </div>    
     </div>
-
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
     <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
+    </a>
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
     </a>
 </div>
 
@@ -72,8 +71,8 @@ The link to my social media are shown below. Feel free to check them out!<br />
 <a href="https://scholar.google.com/citations?user=cFcJgigAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a>
 
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ulogo.jpg" style="width: 100px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US-NationalParkService-Logo.png" style="width: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.jpg" style="width: 90px"> -->
-</figure>
+</figure> -->
