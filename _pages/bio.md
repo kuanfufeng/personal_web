@@ -36,9 +36,11 @@ permalink: /bio
 <br />
 
 ### **Professional Services/Volunteer Experiences**
-2024 &emsp; Seismic COmputational Platform for Empowering Discovery (SCOPED) Seattle Workshop Instructor<br />
-2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
+2024 &emsp; Workshop Instructor of Ambient Noise Seismology in the Cloud, Seismic COmputational Platform for Empowering Discovery (SCOPED) Seattle Workshop<br />
+2024 &emsp; Workshop Instructor on Data Mining on the Cloud 101, Seismological Society of America Meeting<br />
 2022 &emsp; Nodal seismic array deployment in LA basin [LAB2022](https://www.fdsn.org/networks/detail/6W_2022/)<br />
+2019 &emsp; Summer Student Lecture Convenor, Institute of Earth Sciences, Academia Sinica, Taiwan<br />
+2018 &emsp; Summer Student Lecture Convenor and Instructor, Institute of Earth Sciences, Academia Sinica, Taiwan<br />
 2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
 ***Peer reviewer*** for Geophysical Research Letters (2), Journal Geophysical Research (4), Nature Communications (1), Earth, Planets and Space (1)<br />
 <br />
