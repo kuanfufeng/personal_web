@@ -20,7 +20,7 @@ permalink: /cv/
 <br />
 <br />
 <div markdown="0" class="cv-preview-container">
-    <a href="{{ site.url }}{{ site.baseurl }}/files/Resume_KF.pdf" 
+    <a href="{{ site.url }}{{ site.baseurl }}/files/Resume_KF_2025Mar.pdf" 
        class="cv-download-link" 
        target="_blank">Download Resume (PDF)</a>
 </div>
