@@ -20,9 +20,9 @@ permalink: /
     <!-- Introductory Text -->
     <div style="flex-grow: 1; text-align: justify;">
         <p>
-            Hi, I’m <strong>Kuan-Fu Feng</strong>, a postdoc with extensive experience 
-            in data and applied science in the <strong>Department of Geology and Geophysics</strong> at the 
-            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology. My research interests are exploring nature using seismic interferometry and expanding seismology into the 4th dimension of time.            
+            Hi, I’m <strong>Kuan-Fu Feng</strong>, a postdoc in the <strong>Department of Geology and Geophysics</strong> at the 
+            <a href="https://earth.utah.edu/" target="_blank">University of Utah</a>. I am a geophysicist specializing in observational seismology with extensive experience in data and applied science.
+             My research interests are exploring nature using seismic interferometry and expanding seismology into the 4th dimension of time.            
         </p>
     </div>
 </div>
