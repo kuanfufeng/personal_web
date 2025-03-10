@@ -25,13 +25,11 @@ Here are some topics and researchs that I finished or currently work on:
 <br />
 <br />
 
-##### **Near-surface processes** <br />
+#### **Near-surface processes** <br />
 <br />
+
 **Pre-eruptive magmatic processes.** 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_01_kilauea.png){: style="width: 400px; float: left; margin: 0px 20px"}
-<br />
-<br />
-<br />
 We employ ambient noise interferometry to examine seismic velocity variations (dv/v) prior to the 2018 Kīlauea eruption. The results identify three stages of magma activity: deep intrusion (1–4 km) occurring in late 2017, summit inflation in early 2018, and structural weakening leading to the lower East Rift Zone eruption. These findings underscore the value of dv/v analysis in monitoring volcanic activity and enhancing eruption prediction capabilities.
 <br />
 <br />
@@ -44,12 +42,13 @@ We employ ambient noise interferometry to examine seismic velocity variations (d
 <br />
 <br />
 <br />
-**Seasonal subsurface behaviors in Taiwan**
-![]({{ site.url }}{{ site.baseurl }}/images/research/fig_02_taiwan.png){: style="width: 400px; float: left; margin: 0px 10px"}
 <br />
 <br />
 <br />
+
+**Seasonal subsurface behaviors in Taiwan**<br />
 Analyzing decades of continuous seismic recordings from the Broadband Array in Taiwan for Seismology (BATS), we uncover strong seasonal variations in near-surface seismic velocity (dv/v). By comparing these variations with weather data, such as rainfall, temperature, air pressure, and wind speed, we find that rainfall varying groundwater level and the subterranean pore pressure best fit the seasonal wave speed changes in both space and time. Once we remove these rainfall-related signals, we can more precisely detect earthquake-induced underground damage that might otherwise be hidden or overshadowed by strong seasonal effects.
+![]({{ site.url }}{{ site.baseurl }}/images/research/fig_02_taiwan.png){: style="width: 400px; float: left; margin: 0px 10px"}
 <br />
 <br />
 <br />
@@ -59,7 +58,7 @@ Analyzing decades of continuous seismic recordings from the Broadband Array in T
 <br />
 <br />
 
-**Water resources in the Utah State, USA**
+**Water resources in the Utah State, USA**<br />
 Climate change is increasing droughts and extreme weather in the western US (and worldwide), especially in semi-arid areas, causing major social and environmental impacts. Effective water management requires ongoing groundwater monitoring, which is detectable through seismic velocity variations (dv/v). This study analyzes seismic data from 28 broadband stations in Utah (2006–2023), focusing on seismic signals, thermal stresses, soil moisture, and groundwater levels. The results show that long-term groundwater decline correlates most with seismic observations and that soil moisture alone cannot account for total water storage changes. Ultimately, dv/v is a helpful indicator of subsurface water storage.
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_03_utah.png){: style="width: 400px; float: left; margin: 0px 10px"}
 <br />
