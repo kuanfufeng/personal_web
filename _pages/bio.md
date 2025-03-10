@@ -72,7 +72,6 @@ Detection of a precursory phase of the 2018 magma eruption in the Lower East Rif
 2018 &emsp; Geo5101, Computer Programming on Geosciences, National Taiwan University<br /> -->
 
 
-
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure> -->
