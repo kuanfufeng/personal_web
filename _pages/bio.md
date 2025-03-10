@@ -12,8 +12,8 @@ permalink: /bio
 </div> -->
 
 ### **Education**
-2017 - 2022 &emsp; Ph.D., Department of Geosciences, National Taiwan University, Taiwan. (Advisor: [Dr. Hsin-Hua Huang](https://sites.google.com/view/hsinhuahuang/home?authuser=0) & [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
-2014 – 2016 &emsp; Master, Department of Geosciences, National Taiwan University, Taiwan. (Advisor: [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
+2017 - 2022 &emsp; Ph.D., Department of Geosciences, National Taiwan University, Taiwan (Advisor: [Dr. Hsin-Hua Huang](https://sites.google.com/view/hsinhuahuang/home?authuser=0) & [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
+2014 – 2016 &emsp; Master, Department of Geosciences, National Taiwan University, Taiwan (Advisor: [Dr. Yih-Min Wu](http://seismology.gl.ntu.edu.tw/professor_2.htm))<br />
 2010 – 2014 &emsp; Bachelor, Department of Earth and Environmental Sciences, National Chung Cheng University, Taiwan<br />
 
 ### **Working Experience**
@@ -21,7 +21,7 @@ permalink: /bio
 ##### ***Dec 2024 - present*** @ University of Utah, US
 ##### ***Jun 2023 - Nov 2024*** @ University of Washington, US
 ##### ***Jun 2022 - May 2023*** @ University of Utah, US
-##### ***Feb 2022 - May 2022*** @ Institute of Earth Sciences, Academia Sinica, Taiwan
+##### ***Feb 2022 - May 2022*** @ Institute of Earth Sciences, Academia Sinica, Taiwan 
 <br />
 
 #### Research Assistant 
