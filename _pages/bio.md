@@ -40,7 +40,7 @@ permalink: /bio
 2024 &emsp; Seismological Society of America Meeting - Data Mining on the Cloud 101 Workshop Instructor<br />
 2022 &emsp; Nodal seismic array deployment in LA basin [LAB2022](https://www.fdsn.org/networks/detail/6W_2022/)<br />
 2018 &emsp; President of Graduate Student Association, Geosciences, National Taiwan University<br />
-***Peer reviewer*** for Geophysical Research Letters, Journal Geophysical Research, Nature Communications, Earth, Planets and Space<br />
+***Peer reviewer*** for Geophysical Research Letters (2), Journal Geophysical Research (4), Nature Communications (1), Earth, Planets and Space (1)<br />
 <br />
 
 ### **Grants/Fellowships**
@@ -57,9 +57,9 @@ permalink: /bio
 
 ### **Selected Presentation**
 #### 2024 Seismological Society of America (SSA) Meeting (Anchorage, AK, US)
-- Measuring shallow seismic attenuation across the PaciKic Northwest of the United States using ambient noise seismology. (Poster)
+Measuring shallow seismic attenuation across the PaciKic Northwest of the United States using ambient noise seismology. (Poster)
 #### 2023 American Geophysical Union (San Fransisco, CA, US)
-    A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States. (Oral)
+A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States. (Oral)
 #### 2023 GAGE/SAGE 2023 Community Science Workshop (Pasadena, CA, US)
 Investigating seismic velocity response to near-surface hydrological variations in Utah, United States. (Poster)
 #### 2022 The 5th Taiwan Earthquake Center (TEC) Annual Meeting (Yilan, Taiwan)
