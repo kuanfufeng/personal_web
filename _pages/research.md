@@ -12,7 +12,7 @@ permalink: /research/
     style="width: 120%; max-height: 250px; object-fit: cover; border-radius: 1px;">
 </div> -->
 
-### **Research**
+### **Research** 
 <!-- My research interests are exploring nature and expanding seismology into the 4th dimension of time.  -->
 
 <!-- My goal is to explore Earth's subsurface structure, uncover the mysteries of geyser activities, and apply machine learning to Earth science data to reveal the secrets of our planet.
@@ -25,6 +25,7 @@ My goal including discovering the subsurface structure of the earth, unveiling t
 <br />
 
 #### **Near-surface processes** <br />
+<br />
 
 **Pre-eruptive magmatic processes**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_01_kilauea.png){: style="width: 450px; float: left; margin: 0px 10px"}
@@ -49,6 +50,7 @@ We employ ambient noise interferometry to examine seismic velocity variations (d
 **Seasonal subsurface behaviors in Taiwan**<br />
 ![]({{ site.url }}{{ site.baseurl }}/images/research/fig_02_taiwan.png){: style="width: 450px; float: right; margin: 0px 10px"}
 Analyzing decades of continuous seismic recordings from the Broadband Array in Taiwan for Seismology (BATS), we uncover strong seasonal variations in near-surface seismic velocity (dv/v). By comparing these variations with weather data, such as rainfall, temperature, air pressure, and wind speed, we find that rainfall varying groundwater level and the subterranean pore pressure best fit the seasonal wave speed changes in both space and time. Once we remove these rainfall-related signals, we can more precisely detect earthquake-induced underground damage that might otherwise be hidden or overshadowed by strong seasonal effects.
+<br />
 <br />
 <br />
 <br />
