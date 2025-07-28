@@ -17,7 +17,7 @@ permalink: /bio
 2010 – 2014 &emsp; Bachelor, Department of Earth and Environmental Sciences, National Chung Cheng University, Taiwan<br />
 
 ### **Working Experience**
-#### Postdoctoral Researcher (<em>full time</em>)
+#### Postdoctoral Researcher
 ##### ***Dec 2024 - present*** @ University of Utah, US
 ##### ***Jun 2023 - Nov 2024*** @ University of Washington, US
 ##### ***Jun 2022 - May 2023*** @ University of Utah, US
