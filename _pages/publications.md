@@ -54,14 +54,14 @@ permalink: /publications/
 <p> &nbsp; </p> -->
 
 #### Upcoming
-- A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States <br />
-<em> **KF Feng**, M Denolle, FC Lin, T van Dam (**under review**) </em><br />
-<br />
 - Investigating seismic attenuation across the Pacific Northwest of the United States using the ambient noise <br />
 <em>**KF Feng**, M Denolle, Y Ni (**in prep.**) </em><br />
 <br />
-- Long-Term Signatures of Interseismic Deformation within Cascadia Subduction Zone Using Ambient Noise Interferometry <br />
-<em>**M Kidiwela**, **KF Feng**, M Denolle, WSD Wilcock (**in prep.**) <em><br />
+- Active Protothrusts and Fluid Highways: Seismic Noise Reveals Hidden Subduction Dynamics in Cascadia <br />
+<em>**M Kidiwela**, M Denolle, WSD Wilcock, **KF Feng**  (**under review**) <em><br />
+<br />
+- A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States <br />
+<em> **KF Feng**, M Denolle, FC Lin, T van Dam (**under review**) </em><br />
 <br />
 <br />
 

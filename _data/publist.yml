@@ -1,3 +1,22 @@
+
+- title: "A review of cloud computing and storage in seismology"
+  image: BSCCOgap.png
+  description: ""
+  link:
+    url: "https://doi.org/10.1093/gji/ggaf322"
+    display: "Geophysical Journal International, 243(1), ggaf322"
+  authors: "Ni Y, Denolle MA, Münchmeyer J, Wang Y, Feng KF, Garcia Jurado Suarez C, Thomas AM, Trabant C, Hamilton A, Mencin D (2025)"
+  highlight: 1
+
+- title: "Training the Next Generation of Seismologists: Delivering Research‐Grade Software Education for Cloud and HPC Computing Through Diverse Training Modalities"
+  image: BSCCOgap.png
+  description: ""
+  link:
+    url: " https://doi.org/10.1785/0220240413"
+    display: "Seismological Research Letters 2025;; 96 (5): 3265–3279"
+  authors: "Denolle MA, Tape C, Bozdağ E, Wang Y, Waldhauser F, Gabriel AA, Braunmiller J, Chow B, Ding L, Feng KF, Ghosh A et al. (2025)"
+  highlight: 1
+
 - title: "Controls on Seasonal Variations of Crustal Seismic Velocity in Taiwan Using Single‐Station Cross‐Component Analysis of Ambient Noise Interferometry"
   image: BSCCOgap.png
   description: ""
