@@ -58,10 +58,7 @@ permalink: /publications/
 <em>**KF Feng**, M Denolle, Y Ni (**in prep.**) </em><br />
 <br />
 - Active Protothrusts and Fluid Highways: Seismic Noise Reveals Hidden Subduction Dynamics in Cascadia <br />
-<em>**M Kidiwela**, M Denolle, WSD Wilcock, **KF Feng**  (**under review**) <em><br />
-<br />
-- A decadal survey of the near-surface seismic velocity response to hydrological variations in Utah, United States <br />
-<em> **KF Feng**, M Denolle, FC Lin, T van Dam (**under review**) </em><br />
+<em>**M Kidiwela**, M Denolle, WSD Wilcock, **KF Feng**  (**Accepted by Science Advances**) <em><br />
 <br />
 <br />
 
