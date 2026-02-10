@@ -57,8 +57,8 @@ permalink: /publications/
 - Investigating seismic attenuation across the Pacific Northwest of the United States using the ambient noise <br />
 <em>**KF Feng**, M Denolle, Y Ni (**in prep.**) </em><br />
 <br />
-- Active Protothrusts and Fluid Highways: Seismic Noise Reveals Hidden Subduction Dynamics in Cascadia <br />
-<em>**M Kidiwela**, M Denolle, WSD Wilcock, **KF Feng**  (**Accepted by Science Advances**) <em><br />
+<!-- - Active Protothrusts and Fluid Highways: Seismic Noise Reveals Hidden Subduction Dynamics in Cascadia <br />
+<em>**M Kidiwela**, M Denolle, WSD Wilcock, **KF Feng**  (**Accepted by Science Advances**) <em><br /> -->
 <br />
 <br />
 
