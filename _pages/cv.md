@@ -18,7 +18,7 @@ permalink: /cv/
 </div>
 <br />
 <div markdown="0" class="cv-preview-container">
-    <a href="{{ site.url }}{{ site.baseurl }}/files/Resume_KF_2026Jan.pdf" 
+    <a href="{{ site.url }}{{ site.baseurl }}/files/Resume_KF_2026Feb.pdf" 
        class="cv-download-link" 
        target="_blank">Download Resume (PDF)</a>
 </div>
