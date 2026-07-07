@@ -15,7 +15,11 @@ permalink: /links/
 ##### [Ya-Ju Hsu](https://www.earth.sinica.edu.tw/en/member/detail/61) ([Institude of Earth Scinece, Academia Sinica](https://www.earth.sinica.edu.tw/en))<br />
 ##### [Fan-Chi Lin](https://noise.earth.utah.edu/) ([University of Utah](https://www.utah.edu/))<br />
 ##### [Marine Denolle](https://ess.uw.edu/people/marine-denolle/) ([University of Washington](https://ess.uw.edu/))<br />
-##### [Tonie van Dam](https://profiles.faculty.utah.edu/u6030191/about) ([University of Utah](https://www.utah.edu/))<br />
+##### [Tonie van Dam](https://profiles.faculty.utah.edu/u6030191) ([University of Utah](https://www.utah.edu/))<br />
+##### [Sara Warix](https://profiles.faculty.utah.edu/u1322101) ([University of Utah](https://www.utah.edu/))<br />
+##### [Paul Brooks](https://profiles.faculty.utah.edu/u0982409) ([University of Utah](https://www.utah.edu/))<br />
+##### [Maleen Wijeratna Kidiwela](https://www.ocean.washington.edu/home/Maleen_Wijeratna_Kidiwela) ([University of Washington](https://ess.uw.edu/))<br />
+##### [Yiyu Ni](https://niyiyu.github.io/) ([University of Washington](https://ess.uw.edu/))<br />
 
 <!-- ##### [Yu-Fang Hsu](https://yfhsu.weebly.com/)([University of Southern California](https://dornsife.usc.edu/earth/)) -->
 <!-- ##### []() -->

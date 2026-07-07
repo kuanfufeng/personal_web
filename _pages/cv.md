@@ -12,7 +12,7 @@ permalink: /cv/
 </div> -->
 
 <div markdown="0" class="cv-preview-container">
-    <a href="{{ site.url }}{{ site.baseurl }}/files/CV_KF_long_2026Feb.pdf" 
+    <a href="{{ site.url }}{{ site.baseurl }}/files/CV_long_2026Jul.pdf" 
        class="cv-download-link" 
        target="_blank">Download CV (PDF)</a>
 </div>
